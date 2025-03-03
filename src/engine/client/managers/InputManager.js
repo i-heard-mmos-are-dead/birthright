@@ -25,8 +25,6 @@ export class InputManager {
         '9': 'ear',
         };
 
-        this.speed = 10;
-
         this.facade = gameClient.storeFacade;
         this.camera = gameClient.camera;
         this.windowManager = gameClient.windowManager;
@@ -137,7 +135,7 @@ export class InputManager {
        }, { passive: false });
    }
    
-   processMovement() {
+   processMovement(speed) {
     let dx = 0, dy = 0;
     
     for (const key of this.activeKeys) {
@@ -147,8 +145,8 @@ export class InputManager {
     }
 
     // Simple clamping to -1, 0, or 1 for each component
-    dx = Math.sign(dx) * this.speed;
-    dy = Math.sign(dy) * this.speed;
+    dx = Math.sign(dx) * 10;
+    dy = Math.sign(dy) * 10;
 
     const direction = this.getCardinalDirection(dx, dy);
     this.currentMovement = { dx, dy, direction };
