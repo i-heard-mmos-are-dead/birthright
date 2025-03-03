@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -13, y: 4}
+        - {x: -13, y: 14}
+        - {x: 11, y: 14}
+        - {x: 11, y: 4}
+        - {x: -13, y: 4}
+  topZ:
+assets:
+  static:
+    - {file: "resources_lapisore_S", depthLine: -1}
+  animations:

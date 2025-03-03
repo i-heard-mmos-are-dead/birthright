@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -9, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: -3}
+        - {x: -9, y: -3}
+        - {x: -9, y: 7}
+  topZ:
+assets:
+  static:
+    - {file: "etc_anvil", depthLine: -1}
+  animations:

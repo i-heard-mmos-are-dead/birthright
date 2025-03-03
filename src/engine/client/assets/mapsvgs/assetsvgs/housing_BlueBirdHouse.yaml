@@ -1,0 +1,18 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -10, y: 41}
+        - {x: -10, y: 43}
+        - {x: -8, y: 46}
+        - {x: 8, y: 46}
+        - {x: 9, y: 44}
+        - {x: 10, y: 40}
+        - {x: -10, y: 41}
+  topZ:
+assets:
+  static:
+    - {file: "housing_BlueBirdHouse", depthLine: 37}
+  animations:
+
+
+  

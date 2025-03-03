@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -18, y: -8}
+        - {x: 17, y: -8}
+        - {x: 17, y: 7}
+        - {x: 17, y: 9}
+        - {x: 17, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: 10}
+        - {x: -18, y: 8}
+        - {x: -18, y: -8}
+  topZ:
+assets:
+  static:
+    - {file: "housing_MiniRed", depthLine: 7}
+  animations:

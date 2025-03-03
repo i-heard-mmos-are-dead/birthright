@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -11, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 7}
+        - {x: -11, y: 7}
+        - {x: -11, y: -3}
+  topZ:
+assets:
+  static:
+    - {file: "indoor_bookcase4", depthLine: 0}
+  animations:

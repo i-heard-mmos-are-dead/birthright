@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -25, y: -4}
+        - {x: -25, y: 8}
+        - {x: -25, y: 9}
+        - {x: -25, y: 25}
+        - {x: 23, y: 25}
+        - {x: 23, y: 10}
+        - {x: 25, y: 8}
+        - {x: 25, y: -4}
+        - {x: -25, y: -4}
+  topZ:
+assets:
+  static:
+    - {file: "housing_Store", depthLine: 15}
+  animations:

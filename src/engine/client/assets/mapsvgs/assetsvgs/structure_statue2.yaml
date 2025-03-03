@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -20, y: 5}
+        - {x: 18, y: 5}
+        - {x: 18, y: 21}
+        - {x: -21, y: 20}
+        - {x: -20, y: 5}
+  topZ:
+assets:
+  static:
+    - {file: "structure_statue2", depthLine: 5}
+  animations:

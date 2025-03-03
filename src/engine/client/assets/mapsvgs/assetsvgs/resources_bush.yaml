@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -14, y: -3}
+        - {x: 13, y: -3}
+        - {x: 13, y: 10}
+        - {x: -14, y: 10}
+        - {x: -14, y: -3}
+  topZ:
+assets:
+  static:
+    - {file: "resources_bush", depthLine: -2}
+  animations:

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html oncontextmenu="return false">
+<head>
+   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+   <meta http-equiv="Pragma" content="no-cache">
+   <meta http-equiv="Expires" content="0">
+   <style>
+       body {
+           margin: 0;
+           overflow: hidden;
+       }
+       canvas {
+           display: block;
+       }
+       @font-face {
+        font-family: 'm5x7';
+        src: url('/assets/fonts/m5x7.ttf?v=1') format('truetype');
+       }
+       @font-face {
+        font-family: 'Early GameBoy';
+        src: url('/assets/fonts/Early GameBoy.ttf?v=1') format('truetype');
+       }
+       @font-face {
+        font-family: 'nokiafc22';
+        src: url('/assets/fonts/nokiafc22.ttf?v=1') format('truetype');
+       }
+   </style>
+</head>
+<body>
+   <canvas></canvas>
+   <script src="/socket.io/socket.io.js?v=1"></script>
+   <script src="https://unpkg.com/redux@latest/dist/redux.mjs?v=1" type="module"></script>
+   <script type="module" src="/game16.js?v=1"></script>
+</body>
+</html>

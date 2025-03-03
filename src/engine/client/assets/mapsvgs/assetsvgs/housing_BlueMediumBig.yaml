@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -34, y: -12}
+        - {x: -34, y: 13}
+        - {x: -33, y: 15}
+        - {x: -33, y: 41}
+        - {x: 31, y: 41}
+        - {x: 31, y: 16}
+        - {x: 33, y: 13}
+        - {x: 33, y: -13}
+        - {x: -34, y: -12}
+  topZ:
+assets:
+  static:
+    - {file: "housing_BlueMediumBig", depthLine: 17}
+  animations:

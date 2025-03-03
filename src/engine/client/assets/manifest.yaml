@@ -1,0 +1,1053 @@
+etc_anvil:
+  type: static
+  subtype: etc
+etc_barrel_closed:
+  type: static
+  subtype: etc
+etc_barrel_open:
+  type: static
+  subtype: etc
+etc_barrel_swords:
+  type: static
+  subtype: etc
+etc_barrel_water:
+  type: static
+  subtype: etc
+etc_blueflower1:
+  type: static
+  subtype: etc
+etc_blueflower2:
+  type: static
+  subtype: etc
+etc_bluejar:
+  type: static
+  subtype: etc
+etc_campfire:
+  type: static
+  subtype: etc
+etc_chest_closed:
+  type: static
+  subtype: etc
+etc_chest_open:
+  type: static
+  subtype: etc
+etc_crab:
+  type: static
+  subtype: etc
+etc_crate:
+  type: static
+  subtype: etc
+etc_crate_open:
+  type: static
+  subtype: etc
+etc_daisy1:
+  type: static
+  subtype: etc
+etc_daisy2:
+  type: static
+  subtype: etc
+etc_fire_strip_01:
+  type: animated
+  subtype: etc
+etc_fire_strip_02:
+  type: animated
+  subtype: etc
+etc_fish:
+  type: static
+  subtype: etc
+etc_flowerpot1:
+  type: static
+  subtype: etc
+etc_glint_01:
+  type: animated
+  subtype: etc
+etc_glint_02:
+  type: animated
+  subtype: etc
+etc_jar:
+  type: static
+  subtype: etc
+etc_minecart:
+  type: static
+  subtype: etc
+etc_mushroomblue:
+  type: static
+  subtype: etc
+etc_mushroomred:
+  type: static
+  subtype: etc
+etc_pumpkin:
+  type: static
+  subtype: etc
+etc_rock1:
+  type: static
+  subtype: etc
+etc_rock2:
+  type: static
+  subtype: etc
+etc_rock3:
+  type: static
+  subtype: etc
+etc_rock4:
+  type: static
+  subtype: etc
+etc_rug:
+  type: static
+  subtype: etc
+etc_sign1:
+  type: static
+  subtype: etc
+etc_sign2:
+  type: static
+  subtype: etc
+etc_sprout:
+  type: static
+  subtype: etc
+etc_sprout2:
+  type: static
+  subtype: etc
+etc_stackedcrates:
+  type: static
+  subtype: etc
+etc_stump1:
+  type: static
+  subtype: etc
+etc_stump2:
+  type: static
+  subtype: etc
+etc_sunflower:
+  type: static
+  subtype: etc
+etc_sunflower2:
+  type: static
+  subtype: etc
+etc_sword:
+  type: static
+  subtype: etc
+etc_watertrough:
+  type: static
+  subtype: etc
+housing_AllGreenSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BigBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueBigHouse2:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueBigHouse3:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueBlueTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueDoubleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueGalpon:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueMedium:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueMediumBig:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueMediumRanch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueOrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueRedSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueRedTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueSmallMansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueTinyHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BlueWaterHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Blue_PurpleSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BluenWindowMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BluueMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_BoardWindowTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Church:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Final:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_FinalBlockHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green1Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green2Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green3Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green4Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenBigBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenBigHouse3:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenBlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenChurch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenDoubleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenGalpon:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenHouse4Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenMediumBig:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenMediumRanch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenMiniTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenOrangeBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenOrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenRSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenRedSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenStore:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenTinyHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreenWaterHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green_MediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green_OrangeMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green_PurpleSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green_RedSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Green_Red_Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreeneMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GreeneSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_GrenageSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_HouseSmallRed:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Mansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MediumBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MediumBlue:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MediumRanch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Mini:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniBlue:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniGreen:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniOrange:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniRed:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniRoja:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MiniTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Molino:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_MolinoAzul:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OpenBlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OpenBlueTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OpenOrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OpenRedMedium:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OpenRedMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Orange2Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeBigBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeBigHouse2:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeBigHouse3:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeBlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeChimneySmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeDoubleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeMansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeMediumBig:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeMiniTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeRanchSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeStore:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeTinyHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeWindowMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Orange_GreenHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Orange_GreenMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Orange_MediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_OrangeeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurblueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purple2HouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purple2Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleBigBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleBighouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleBlueMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleBlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleChurch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleDoubleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleGreenMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleGreenSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleMediumOpenRanch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleMiniTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleOrangeHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleRanchSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleRedBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleRedHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleSmallMansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleStore:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurpleWaterHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purple_Blu2Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purple_OrangeMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purple_OrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Purplebighouse2:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_PurplrMediumRanch:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RanchMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red)OrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red1HouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBigBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBigHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBigHouse2:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBigHouse3:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBirdHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedBlueTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedDoubleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedGreenSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedMansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedMedium:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedMediumBig:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedMiniTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedRanchSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedRedHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedRedSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedTinyHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedWaterHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_RedWindowTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_Blue2Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_BlueMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_BlueSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_Blue_Small:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_GreenHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_GreenMediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_OrangeSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red_Orange_Templo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Red__MediumHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_ReddTemplo:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SideBlueHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SideGreenHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SideOrangeHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SidePurpleHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SideRedHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SimpleBlueHouseSmall:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SmallGreen:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SmallGreen2:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_SmallMansion:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_Store:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_TheNoMolino:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_TinyHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_WaterHouse:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_bluehouse01:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_chimneysmoke_01:
+  type: animated
+  subtype: housing
+housing_chimneysmoke_02:
+  type: animated
+  subtype: housing
+housing_chimneysmoke_03:
+  type: animated
+  subtype: housing
+housing_chimneysmoke_04:
+  type: animated
+  subtype: housing
+housing_chimneysmoke_05:
+  type: animated
+  subtype: housing
+housing_orangehouse01:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_violethouse01:
+  type: static
+  subtype: housing
+  method: assetManager.loadHouse
+housing_windmill:
+  type: animated
+  subtype: housing
+housing_windmill_shadow:
+  type: animated
+  subtype: housing
+indoor_bench_H:
+  type: static
+  subtype: indoor
+indoor_bench_V:
+  type: static
+  subtype: indoor
+indoor_bookcase1:
+  type: static
+  subtype: indoor
+indoor_bookcase2:
+  type: static
+  subtype: indoor
+indoor_bookcase3:
+  type: static
+  subtype: indoor
+indoor_bookcase4:
+  type: static
+  subtype: indoor
+indoor_jar2:
+  type: static
+  subtype: indoor
+indoor_milk:
+  type: static
+  subtype: indoor
+indoor_nightstand:
+  type: static
+  subtype: indoor
+indoor_picnicbasket:
+  type: static
+  subtype: indoor
+indoor_smalltable:
+  type: static
+  subtype: indoor
+indoor_stool:
+  type: static
+  subtype: indoor
+indoor_wardrobe:
+  type: static
+  subtype: indoor
+mushroom_strip_blue:
+  type: sheet
+  elements:
+  - mush01 (nature)
+  - mush02 (nature)
+  - mush03 (nature)
+  - mush04 (nature)
+mushroom_strip_red:
+  type: sheet
+  elements:
+  - mush01 (nature)
+  - mush02 (nature)
+  - mush03 (nature)
+  - mush04 (nature)
+resources_bush:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_bushred:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_bushsmall:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_bushyellow:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_coalore_B:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_coalore_M:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_coalore_S:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_lapisore_B:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_lapisore_M:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_lapisore_S:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_ore_B:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_ore_M:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_ore_S:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_silverore_B:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_silverore_M:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_silverore_S:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_topazore_B:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_topazore_M:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_topazore_S:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_tree1:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+resources_tree2:
+  type: static
+  subtype: resources
+  method: assetManager.loadAsset
+structure_stand:
+  type: static
+  subtype: structure
+structure_statue1:
+  type: static
+  subtype: structure
+structure_statue2:
+  type: static
+  subtype: structure
+structure_well:
+  type: static
+  subtype: structure
+structure_well_covered:
+  type: static
+  subtype: structure
+tree_strip_01:
+  type: sheet
+  elements:
+  - tree01 (nature)
+  - tree02 (nature)
+  - tree03 (nature)
+  - tree04 (nature)

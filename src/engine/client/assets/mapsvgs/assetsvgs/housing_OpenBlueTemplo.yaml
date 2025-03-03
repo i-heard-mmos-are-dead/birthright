@@ -1,0 +1,23 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: 34, y: 8}
+        - {x: 34, y: 23}
+        - {x: 34, y: 24}
+        - {x: 35, y: 24}
+        - {x: 35, y: 32}
+        - {x: 34, y: 32}
+        - {x: 32, y: 48}
+        - {x: -32, y: 48}
+        - {x: -33, y: 48}
+        - {x: -33, y: 33}
+        - {x: -34, y: 32}
+        - {x: -34, y: 24}
+        - {x: -33, y: 22}
+        - {x: -32, y: 8}
+        - {x: 34, y: 8}
+  topZ:
+assets:
+  static:
+    - {file: "housing_OpenBlueTemplo", depthLine: 8}
+  animations:

@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -47, y: 25}
+        - {x: 46, y: 25}
+        - {x: 46, y: 40}
+        - {x: -46, y: 40}
+        - {x: -47, y: 25}
+  topZ:
+assets:
+  static:
+    - {file: "housing_GreenHouse", depthLine: 32}
+  animations:

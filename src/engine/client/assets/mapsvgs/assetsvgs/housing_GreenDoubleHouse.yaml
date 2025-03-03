@@ -1,0 +1,21 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -43, y: -9}
+        - {x: -44, y: 29}
+        - {x: -42, y: 32}
+        - {x: -42, y: 41}
+        - {x: 9, y: 41}
+        - {x: 9, y: 33}
+        - {x: 10, y: 31}
+        - {x: 10, y: 26}
+        - {x: 40, y: 26}
+        - {x: 40, y: 16}
+        - {x: 42, y: 14}
+        - {x: 42, y: -8}
+        - {x: -43, y: -9}
+  topZ:
+assets:
+  static:
+    - {file: "housing_GreenDoubleHouse", depthLine: 19}
+  animations:

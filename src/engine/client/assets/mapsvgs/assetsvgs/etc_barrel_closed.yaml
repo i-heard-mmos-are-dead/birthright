@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -8, y: -1}
+        - {x: -8, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: -1}
+        - {x: -8, y: -1}
+  topZ:
+assets:
+  static:
+    - {file: "etc_barrel_closed", depthLine: 0}
+  animations:

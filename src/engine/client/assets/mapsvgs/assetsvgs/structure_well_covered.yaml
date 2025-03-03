@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -13, y: 0}
+        - {x: -13, y: 20}
+        - {x: 12, y: 20}
+        - {x: 12, y: 0}
+        - {x: -13, y: 0}
+  topZ:
+assets:
+  static:
+    - {file: "structure_well_covered", depthLine: 4}
+  animations:

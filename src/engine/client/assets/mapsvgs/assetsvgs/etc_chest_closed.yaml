@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -10, y: -2}
+        - {x: 9, y: -2}
+        - {x: 9, y: 7}
+        - {x: -10, y: 7}
+        - {x: -10, y: -2}
+  topZ:
+assets:
+  static:
+    - {file: "etc_chest_closed", depthLine: -2}
+  animations:

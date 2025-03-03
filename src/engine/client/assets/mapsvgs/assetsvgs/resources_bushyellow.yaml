@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -13, y: -2}
+        - {x: -13, y: 10}
+        - {x: 12, y: 11}
+        - {x: 12, y: -2}
+        - {x: -13, y: -2}
+  topZ:
+assets:
+  static:
+    - {file: "resources_bushyellow", depthLine: -3}
+  animations:

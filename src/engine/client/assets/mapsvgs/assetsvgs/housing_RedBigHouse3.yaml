@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -48, y: -16}
+        - {x: 47, y: -16}
+        - {x: 47, y: 36}
+        - {x: 30, y: 36}
+        - {x: 30, y: 47}
+        - {x: -29, y: 47}
+        - {x: -29, y: 36}
+        - {x: -48, y: 36}
+        - {x: -48, y: -16}
+  topZ:
+assets:
+  static:
+    - {file: "housing_RedBigHouse3", depthLine: 19}
+  animations:

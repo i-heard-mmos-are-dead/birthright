@@ -1,0 +1,26 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -43, y: 16}
+        - {x: -43, y: 22}
+        - {x: -42, y: 24}
+        - {x: -42, y: 34}
+        - {x: -28, y: 34}
+        - {x: -27, y: 38}
+        - {x: -26, y: 39}
+        - {x: -26, y: 48}
+        - {x: 25, y: 48}
+        - {x: 24, y: 41}
+        - {x: 26, y: 39}
+        - {x: 26, y: 33}
+        - {x: 39, y: 34}
+        - {x: 39, y: 25}
+        - {x: 42, y: 22}
+        - {x: 42, y: -22}
+        - {x: -43, y: -22}
+        - {x: -43, y: 16}
+  topZ:
+assets:
+  static:
+    - {file: "housing_BlueBigHouse", depthLine: 16}
+  animations:

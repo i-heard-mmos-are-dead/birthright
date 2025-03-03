@@ -1,0 +1,7 @@
+paths:
+  barrierLine:
+  topZ:
+assets:
+  static:
+    - {file: "etc_mushroomred", depthLine: -15}
+  animations:

@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -11, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 6}
+        - {x: -11, y: 6}
+        - {x: -11, y: -3}
+  topZ:
+assets:
+  static:
+    - {file: "etc_crate_open", depthLine: -2}
+  animations:

@@ -1,0 +1,25 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -42, y: -15}
+        - {x: -42, y: 21}
+        - {x: -42, y: 23}
+        - {x: -42, y: 34}
+        - {x: -29, y: 34}
+        - {x: -29, y: 38}
+        - {x: -27, y: 40}
+        - {x: -27, y: 48}
+        - {x: 26, y: 48}
+        - {x: 26, y: 39}
+        - {x: 28, y: 37}
+        - {x: 28, y: 35}
+        - {x: 40, y: 35}
+        - {x: 40, y: 24}
+        - {x: 42, y: 21}
+        - {x: 42, y: -14}
+        - {x: -42, y: -15}
+  topZ:
+assets:
+  static:
+    - {file: "housing_PurpleRedBigHouse", depthLine: 21}
+  animations:

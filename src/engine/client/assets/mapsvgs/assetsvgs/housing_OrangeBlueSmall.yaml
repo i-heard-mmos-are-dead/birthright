@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: 25, y: 5}
+        - {x: 25, y: 22}
+        - {x: 24, y: 22}
+        - {x: 23, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 23}
+        - {x: -26, y: 22}
+        - {x: -26, y: 5}
+        - {x: 25, y: 5}
+  topZ:
+assets:
+  static:
+    - {file: "housing_OrangeBlueSmall", depthLine: 5}
+  animations:

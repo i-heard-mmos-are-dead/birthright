@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -42, y: 4}
+        - {x: 42, y: 4}
+        - {x: 42, y: 23}
+        - {x: 41, y: 25}
+        - {x: 41, y: 41}
+        - {x: -41, y: 42}
+        - {x: -41, y: 27}
+        - {x: -42, y: 24}
+        - {x: -42, y: 4}
+  topZ:
+assets:
+  static:
+    - {file: "housing_PurpleMediumOpenRanch", depthLine: 29}
+  animations:

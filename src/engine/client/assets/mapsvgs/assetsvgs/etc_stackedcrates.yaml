@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -12, y: 5}
+        - {x: 10, y: 5}
+        - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: 5}
+  topZ:
+assets:
+  static:
+    - {file: "etc_stackedcrates", depthLine: 5}
+  animations:

@@ -1,0 +1,23 @@
+===ENTRY===
+[DATE]02-13-2025
+[TITLE]Tech demo 1 features complete!
+[SUBTITLE]Patch notes test 03
+[TEXT]This is the day that I finished writing this patch notes code. I added the first 3 entries,
+the previous 2 and this, and this marked the very last feature I chose to include in the first
+tech demo.
+
+===ENTRY===
+[DATE]01-09-2025
+[TITLE]Beginning of real development
+[SUBTITLE]Patch notes test 02
+[TEXT]January 9th marks the day I did swapped some free assets in for the rectangles and wrote some
+netcode so that a few friends and I could all move around on the same website. This was the day
+we decided to take on this project seriously, and dedicate real time to it.
+
+===ENTRY===
+[DATE]01-02-2025
+[TITLE]The first bit of code I wrote for this game
+[SUBTITLE]Patch notes test 01
+[TEXT]January 2nd, 2025. The first time I coded a single rectangle in canvas that I could
+move around with arrow keys. I messed around with this code on the 2nd and 3rd, and then canned 
+the project until the 9th.

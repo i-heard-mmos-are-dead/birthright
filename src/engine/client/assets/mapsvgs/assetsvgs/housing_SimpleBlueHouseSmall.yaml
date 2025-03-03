@@ -1,0 +1,19 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -27, y: 16}
+        - {x: -27, y: 22}
+        - {x: -26, y: 24}
+        - {x: -26, y: 31}
+        - {x: 24, y: 32}
+        - {x: 24, y: 24}
+        - {x: 26, y: 22}
+        - {x: 26, y: 17}
+        - {x: 26, y: -6}
+        - {x: -27, y: -5}
+        - {x: -27, y: 16}
+  topZ:
+assets:
+  static:
+    - {file: "housing_SimpleBlueHouseSmall", depthLine: 16}
+  animations:

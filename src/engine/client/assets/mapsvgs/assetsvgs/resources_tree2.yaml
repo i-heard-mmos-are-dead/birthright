@@ -1,0 +1,13 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -10, y: 11}
+        - {x: -8, y: 18}
+        - {x: 7, y: 18}
+        - {x: 8, y: 11}
+        - {x: -10, y: 11}
+  topZ:
+assets:
+  static:
+    - {file: "resources_tree2", depthLine: 3}
+  animations:

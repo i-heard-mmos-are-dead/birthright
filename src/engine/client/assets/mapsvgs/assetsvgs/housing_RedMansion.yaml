@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: 52, y: -17}
+        - {x: 52, y: 31}
+        - {x: 50, y: 33}
+        - {x: 50, y: 59}
+        - {x: -52, y: 59}
+        - {x: -52, y: 37}
+        - {x: -54, y: 33}
+        - {x: -53, y: -15}
+        - {x: 52, y: -17}
+  topZ:
+assets:
+  static:
+    - {file: "housing_RedMansion", depthLine: 39}
+  animations:

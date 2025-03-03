@@ -1,0 +1,22 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: 26, y: 21}
+        - {x: 25, y: 24}
+        - {x: 24, y: 25}
+        - {x: 24, y: 40}
+        - {x: 24, y: 41}
+        - {x: -23, y: 41}
+        - {x: -24, y: 39}
+        - {x: -24, y: 21}
+        - {x: 26, y: 21}
+    - points:
+        - {x: -24, y: 20}
+        - {x: -23, y: 13}
+        - {x: 25, y: 19}
+        - {x: -24, y: 20}
+  topZ:
+assets:
+  static:
+    - {file: "housing_GreenTinyHouse", depthLine: 22}
+  animations:

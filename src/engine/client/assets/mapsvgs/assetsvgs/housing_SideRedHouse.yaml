@@ -1,0 +1,17 @@
+paths:
+  barrierLine:
+    - points:
+        - {x: -43, y: -7}
+        - {x: 42, y: -7}
+        - {x: 42, y: 22}
+        - {x: 40, y: 24}
+        - {x: 40, y: 34}
+        - {x: -40, y: 34}
+        - {x: -40, y: 25}
+        - {x: -42, y: 22}
+        - {x: -43, y: -7}
+  topZ:
+assets:
+  static:
+    - {file: "housing_SideRedHouse", depthLine: 35}
+  animations:
