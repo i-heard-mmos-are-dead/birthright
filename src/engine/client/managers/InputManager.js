@@ -25,6 +25,8 @@ export class InputManager {
         '9': 'ear',
         };
 
+        this.speed = 10;
+
         this.facade = gameClient.storeFacade;
         this.camera = gameClient.camera;
         this.windowManager = gameClient.windowManager;
@@ -145,8 +147,8 @@ export class InputManager {
     }
 
     // Simple clamping to -1, 0, or 1 for each component
-    dx = Math.sign(dx);
-    dy = Math.sign(dy);
+    dx = Math.sign(dx) * this.speed;
+    dy = Math.sign(dy) * this.speed;
 
     const direction = this.getCardinalDirection(dx, dy);
     this.currentMovement = { dx, dy, direction };
